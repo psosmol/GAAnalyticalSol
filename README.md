@@ -8,3 +8,5 @@ for example and modify it in a way that a Chromosome be a mathematical expressio
 https://en.wikipedia.org/wiki/Binary_expression_tree
 Then we will use the project Ginac https://www.ginac.de/  for the calculus of fitness of the posible solutions. 
 
+We hope you join us soon!
+
